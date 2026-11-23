@@ -1,0 +1,3 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["operator_overloading", "inheritance"]
